@@ -13,7 +13,7 @@ body {
     height: 100vh;
 }
 
-.logo {
+.left img {
     text-align: center;
     margin-right: 50px;
 }
@@ -41,7 +41,9 @@ body {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
-
+#email{
+	
+}
 .login-form button {
     padding: 10px;
     background-color: #1877f2;
@@ -51,7 +53,7 @@ body {
     cursor: pointer;
     transition: background-color 0.3s;
 }
-
+.signup{}
 .login-form button:hover {
     background-color: #166fe5;
 }
